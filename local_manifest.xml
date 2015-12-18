@@ -6,9 +6,9 @@
     <!-- Device repos -->
     <!-- A series -->
 
-    <project path="device/samsung/a3ultexx" name="racer123/android_device_samsung_a5ultexx" revision="cm-12.1" />
+    <project path="device/samsung/a3ultexx" name="racer123/android_device_samsung_a3ultexx" revision="cm-12.1" />
  
-    <project path="device/samsung/a3-common" name="racer123/android_device_samsung_a5-common" revision="cm-12.1" />
+    <project path="device/samsung/a3-common" name="racer123/android_device_samsung_a3-common" revision="cm-12.1" />
 
 
     <!-- Kernels -->
